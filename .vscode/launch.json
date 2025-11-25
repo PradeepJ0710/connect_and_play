@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "bluetooth (Flutter ONEPLUS A6000)",
+            "program": "lib/main.dart",
+            "deviceId": "885feee4",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
